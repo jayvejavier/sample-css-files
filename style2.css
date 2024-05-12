@@ -1,0 +1,6 @@
+/* Table rows */
+.lfMn .lfFormFieldTable .lfTableGrid.dojoxGrid td.dojoxGridCell {
+ text-align: center;
+ background: #4464ad;
+ color: #a4b0f5;
+}

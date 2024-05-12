@@ -1,0 +1,4 @@
+/* Hide table header */
+.dojoxGridMasterHeader {
+ visibility: collapse;
+}
